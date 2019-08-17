@@ -1,5 +1,6 @@
 React Animation Project.
--- how to run
+
+how to run
 ```
    - npm install
    - npm run start
